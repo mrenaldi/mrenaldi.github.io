@@ -1,0 +1,42 @@
+Revisian:
+
+Cell : Gak usah pake. Diganti alamat web aja (translatindo.com)
+
+14 (fourteen) solid years of working experience ---> diganti 15 (fifteen)
+
+Education: 
+Pake bahasa Indonesia aja mas, karena nama tempat hehe : Institut Teknologi Sepuluh Nopember, Surabaya - Indonesia
+Major: Chemical Engineering (Bachelor degree)
+(Minor) ---> hapus aja
+
+Skills: 
+1. Translation
+2. Editing
+3. Proofreading
+(Kalo mau dikasi definisi, bisa nyontek dari Wikipedia EN, misal: Translation trus bawahnya dijelasin bla bla ...)
+
+Ditambah bagian Specializations: 
+1. Gaming 
+2. IT 
+3. Technical/Engineering 
+4. Marketing 
+5. Chemistry
+
+Experience: 
+ditulis jadi Project Experience.
+(Freelance Translator Translatindo, Surabaya - 2007-present
+PROJECT HISTORY) --> dihapus aja
+poin2nya dibold, misal: 1. EN>ID Localization of Land.net. 
+Penjelasan poinnya normal aja gak usah dibold.
+Urutannya dibalik bisa mas? jadi yang tahunnya paling baru di atas.
+
+
+(Licenses & certificationsAvailable on request
+VolunteeringAvailable on request
+HobbiesWorld Domination, Deep Sea Diving, Murder Most Foul{{ -- You input in here about your hobby}}) ---> Dihapus
+
+References: Available on request --> Tetap (jangan dihapus)
+
+Kasi last updated on... (tanggal editan mas)
+
+Makasih bantuannya mas!
